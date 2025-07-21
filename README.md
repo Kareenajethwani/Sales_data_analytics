@@ -1,7 +1,5 @@
 # 📊 Sales Performance Dashboard (Power BI)
 
-![Dashboard Preview](./sales_DA.png)
-
 ## 📝 Project Overview
 
 This interactive **Sales Performance Dashboard** is built using **Power BI** to provide deep insights into business sales activities, customer trends, and product performance.  
